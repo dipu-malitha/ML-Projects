@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dipu-malitha
-- 👀 I’m interested in chemistry also  chemical engineering 
-- 🌱 I’m currently learning python code with chemistry 
-- 💞️ I’m looking to collaborate on anyother python 
+- 👀 I’m interested in Chemistry, also  Chemical Engineering 
+- 🌱 I’m currently learning Python code with chemistry 
 - 📫 How to reach me : search on dipu-malitha
 
 <!---
