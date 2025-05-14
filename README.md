@@ -3,10 +3,7 @@ Materials Scientist | Nanotechnology Researcher | Environmental Engineer | AI fo
 
 🔬 Passionate about sustainable solutions for wastewater treatment and nanomaterial-based sensing and catalysis. My work focuses on carbon quantum dots (CQDs), semiconductor nanocomposites, and electrochemical advanced oxidation processes for environmental remediation with combined with machine learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipu%20Malitha-blue?logo=linkedin)](https://www.linkedin.com/in/dipu-acce)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Md.%20Dipu%20Malitha-blue?logo=googlescholar)](https://scholar.google.com/citations?user=UCcpfisAAAAJ&hl=en)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Dipu%20Malitha-green?logo=researchgate)](https://www.researchgate.net/profile/Md-Dipu-Malitha)
-[![Website](https://img.shields.io/badge/Website-Dipu%20Malitha-yellow?logo=googlesite?)](https://sites.google.com/view/mddipumalitha/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipu%20Malitha-blue?logo=linkedin)](https://www.linkedin.com/in/dipu-acce)  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Md.%20Dipu%20Malitha-blue?logo=googlescholar)](https://scholar.google.com/citations?user=UCcpfisAAAAJ&hl=en)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-Dipu%20Malitha-green?logo=researchgate)](https://www.researchgate.net/profile/Md-Dipu-Malitha) [![Website](https://img.shields.io/badge/Website-Dipu%20Malitha-yellow?logo=googlesite?)](https://sites.google.com/view/mddipumalitha/home)
 ---
 
 ## 👨‍🔬 About Me
